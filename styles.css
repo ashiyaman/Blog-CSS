@@ -32,12 +32,8 @@
     text-align: center;
 }
 
-.blog-title{
+.padding{
     padding: 1rem;
-}
-
-ul{
-    padding: 1rem
 }
 
 ul li a{
@@ -48,10 +44,6 @@ ul li a{
 
 .border{
     border: 1px solid lightgray;
-}
-
-#blog-post-content{    
-    padding: 1rem;
 }
 
 .post{
